@@ -1,4 +1,3 @@
-package Project2_1;
 
 //********************************************************************
 //RationalTester.java       Java Foundations
